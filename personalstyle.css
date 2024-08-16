@@ -28,3 +28,6 @@ img{
 .navbar-toggler{
     background-color: white;
 }
+.head-main{
+    background-color: rgba(0, 0, 0, 0.7); /* Heade background - transperancy */
+}
